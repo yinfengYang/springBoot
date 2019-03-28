@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+yyf:
+  number: ${random.init}
+  hello: hello
+  hi: hi
